@@ -21,3 +21,7 @@ Schematic of the PCB :
 Top layer of 3D PCB : 
 
 ![Top layer of 3D PCB](https://github.com/Muzashii/PCB_voltage_comparator_circuit/blob/main/Top%20layer%20of%203D%20PCB.png)
+
+## Installation
+
+##### Use KiCad to open the project file
